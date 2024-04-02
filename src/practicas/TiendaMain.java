@@ -3,9 +3,10 @@ import java.util.Scanner;
 
 /**
  * @author Marcos Palomo
- * @version 1.0
+ * @version 2.0
  * @since 01/04/2024
  * @see MiTienda
+ * @see Producto
  */
 
 public class TiendaMain {

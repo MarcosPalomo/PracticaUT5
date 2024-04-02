@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Esta clase contiene las acciones que se pueden hacer en mi tienda.
  *
  * @author Marcos Palomo.
- * @version 1.0.
+ * @version 1.0
  * @since 01/04/2024.
  * @see Producto
  * @see TiendaMain
