@@ -2,6 +2,7 @@ package practicas;
 import java.util.Scanner;
 
 /**
+ *
  * @author Marcos Palomo
  * @version 2.0
  * @since 01/04/2024
